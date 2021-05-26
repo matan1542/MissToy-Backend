@@ -1,0 +1,377 @@
+5/23/2021, 8:07:47 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:08:41 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:09:45 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:10:41 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:11:23 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:11:58 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:12:27 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:13:05 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:13:23 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:13:26 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:13:36 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:13:41 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:13:50 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:14:30 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:16:33 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:31:43 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:34:31 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:34:51 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:36:39 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:37:57 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:38:05 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:38:35 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:39:26 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:39:32 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:40:00 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:40:56 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:41:16 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:41:19 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:42:32 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:43:45 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:46:18 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:46:56 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:51:15 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:51:36 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:51:56 PM - DEBUG - auth.service - login with username: undefined 
+5/23/2021, 8:51:56 PM - ERROR - Failed to Login Invalid username or password 
+5/23/2021, 8:52:32 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:53:36 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:53:55 PM - DEBUG - auth.service - signup with username: undefined, fullname: Matan Lasry 
+5/23/2021, 8:53:55 PM - ERROR - Failed to signup fullname, username and password are required! 
+5/23/2021, 8:59:34 PM - INFO - Server is running on port: 3030 
+5/23/2021, 8:59:46 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:01:19 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:01:25 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:02:02 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:05:35 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:06:46 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:11:29 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:11:49 PM - DEBUG - auth.service - signup with username: undefined, fullname: Matan Lasry 
+5/23/2021, 9:11:49 PM - ERROR - Failed to signup fullname, username and password are required! 
+5/23/2021, 9:12:24 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:13:23 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:13:38 PM - DEBUG - auth.service - signup with username: undefined, fullname: Maran llssada 
+5/23/2021, 9:13:38 PM - ERROR - Failed to signup fullname, username and password are required! 
+5/23/2021, 9:15:18 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:16:41 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:17:10 PM - DEBUG - auth.service - signup with username: nadavTheKing5@gmail.com, fullname: Nadav Nassi 
+5/23/2021, 9:17:10 PM - DEBUG - auth.route - new account created: {"password":"$2b$10$3b/ZuiTgovmng3LDaGr.bOGZI0KXPg6PUUy7cRpsU5nk9QLlZ7C.2","fullname":"Nadav Nassi","score":0,"_id":"60aa9c26d8bfb15c30ef8767"} 
+5/23/2021, 9:17:10 PM - DEBUG - auth.service - login with username: nadavTheKing5@gmail.com 
+5/23/2021, 9:17:10 PM - ERROR - Failed to signup Invalid username or password 
+5/23/2021, 9:19:07 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:19:21 PM - DEBUG - auth.service - signup with username: nadavTheKing5@gmail.com, fullname: Nadav Nas 
+5/23/2021, 9:19:21 PM - DEBUG - auth.route - new account created: {"password":"$2b$10$k18IoUx7PfzhCinDUII3BuRpw7Mppg7Bxw57BzJryv7wcRFw8IDNS","fullname":"Nadav Nas","score":0,"_id":"60aa9ca94a82423750ee6908"} 
+5/23/2021, 9:19:21 PM - DEBUG - auth.service - login with username: nadavTheKing5@gmail.com 
+5/23/2021, 9:19:21 PM - ERROR - Failed to signup Invalid username or password 
+5/23/2021, 9:20:19 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:20:26 PM - DEBUG - auth.service - signup with username: roi@dasds.com, fullname: asasd aasdas 
+5/23/2021, 9:20:26 PM - DEBUG - auth.route - new account created: {"password":"$2b$10$LNMU4TA7ymwzR84TLqeWeuCkH3lxIeqmrM2hwE7LLbIA2sdnghsrO","fullname":"asasd aasdas","_id":"60aa9cea688ff659e45382c4"} 
+5/23/2021, 9:20:26 PM - DEBUG - auth.service - login with username: roi@dasds.com 
+5/23/2021, 9:20:26 PM - ERROR - Failed to signup Invalid username or password 
+5/23/2021, 9:25:48 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:26:13 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:26:56 PM - DEBUG - auth.service - signup with email: matan@gmail.com, fullname: Matan Lasry 
+5/23/2021, 9:26:56 PM - DEBUG - auth.route - new account created: {"password":"$2b$10$V3QScS/IB9WEMSnxrBL2nuP0IB5VovU1/asoFKC.QGPtSVXv2vM6i","fullname":"Matan Lasry","_id":"60aa9e7024a07c2ea4726f3d"} 
+5/23/2021, 9:26:56 PM - DEBUG - auth.service - login with email: matan@gmail.com 
+5/23/2021, 9:26:56 PM - ERROR - Failed to signup TypeError: userService.getByemail is not a function 
+5/23/2021, 9:28:11 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:28:52 PM - DEBUG - auth.service - signup with email: greco@greco.com, fullname: Ilai Greco 
+5/23/2021, 9:28:52 PM - DEBUG - auth.route - new account created: {"password":"$2b$10$eKc4oiYgW7k7DQSEwb6oMOPKdWEiWUY5FANmMlHK/E9PYwFtxtNlm","fullname":"Ilai Greco","_id":"60aa9ee4e64c9b3b9848b3f1"} 
+5/23/2021, 9:28:52 PM - DEBUG - auth.service - login with email: greco@greco.com 
+5/23/2021, 9:28:52 PM - ERROR - Failed to signup TypeError: userService.getByemail is not a function 
+5/23/2021, 9:29:53 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:30:27 PM - DEBUG - auth.service - signup with email: nadavTheKing5@gmail.com, fullname: Nadav Nassi 
+5/23/2021, 9:30:27 PM - DEBUG - auth.route - new account created: {"password":"$2b$10$kbDz4A6U7EgpoLeBmdAXMeiNxOr8xcz7hc5KGrNmZIivuRjNSJ9Ci","fullname":"Nadav Nassi","_id":"60aa9f43383e333ea0ac205d"} 
+5/23/2021, 9:30:27 PM - DEBUG - auth.service - login with email: nadavTheKing5@gmail.com 
+5/23/2021, 9:30:27 PM - ERROR - Failed to signup TypeError: userService.getByemail is not a function 
+5/23/2021, 9:32:55 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:34:56 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:36:01 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:36:27 PM - DEBUG - auth.service - signup with email: roi@gmal.com, fullname: Matan Lasry 
+5/23/2021, 9:36:27 PM - DEBUG - auth.route - new account created: {"password":"$2b$10$dI/y6KbCDSfuvmJ4ieAuKuNeJucJDdt3PZrWgqvwUJ2Mo7zJTHjr6","fullname":"Matan Lasry","_id":"60aaa0abfaea5737e032d59e"} 
+5/23/2021, 9:36:27 PM - DEBUG - auth.service - login with email: roi@gmal.com 
+5/23/2021, 9:36:27 PM - ERROR - Failed to signup Invalid email or password 
+5/23/2021, 9:36:44 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:36:59 PM - DEBUG - auth.service - signup with email: roi@gmail.com, fullname: Matan Lasry 
+5/23/2021, 9:36:59 PM - DEBUG - auth.route - new account created: {"email":"roi@gmail.com","password":"$2b$10$K03MsB6kKMrShsusIauPVetJfybsod1UO7pQJcl549tSgtm3jD32a","fullname":"Matan Lasry","_id":"60aaa0cb8b8c1a6194f713f2"} 
+5/23/2021, 9:36:59 PM - DEBUG - auth.service - login with email: roi@gmail.com 
+5/23/2021, 9:38:17 PM - DEBUG - auth.service - signup with email: Nadav@gmail.com, fullname: Matan Lasry 
+5/23/2021, 9:38:17 PM - DEBUG - auth.route - new account created: {"email":"Nadav@gmail.com","password":"$2b$10$AJdHEWZODePP2uOSOai7suStiqM5UpZ1Jj5yeXnxGF8p7EVigeDAO","fullname":"Matan Lasry","_id":"60aaa1198b8c1a6194f713f3"} 
+5/23/2021, 9:38:17 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/23/2021, 9:39:19 PM - DEBUG - auth.service - login with email: undefined 
+5/23/2021, 9:39:19 PM - ERROR - Failed to Login Invalid email or password 
+5/23/2021, 9:42:48 PM - DEBUG - auth.service - login with email: undefined 
+5/23/2021, 9:42:48 PM - ERROR - Failed to Login Invalid email or password 
+5/23/2021, 9:43:10 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:44:55 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:45:15 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:45:28 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:54:19 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/23/2021, 9:56:31 PM - INFO - Server is running on port: 3030 
+5/23/2021, 9:57:35 PM - INFO - Server is running on port: 3030 
+5/23/2021, 10:07:18 PM - INFO - Server is running on port: 3030 
+5/23/2021, 10:07:41 PM - INFO - Server is running on port: 3030 
+5/23/2021, 10:08:22 PM - INFO - Server is running on port: 3030 
+5/23/2021, 10:08:43 PM - INFO - Server is running on port: 3030 
+5/23/2021, 10:08:49 PM - INFO - Server is running on port: 3030 
+5/23/2021, 10:09:13 PM - INFO - Server is running on port: 3030 
+5/23/2021, 10:09:25 PM - INFO - Server is running on port: 3030 
+5/23/2021, 10:49:11 PM - INFO - Server is running on port: 3030 
+5/23/2021, 11:00:07 PM - INFO - Server is running on port: 3030 
+5/23/2021, 11:20:29 PM - INFO - Server is running on port: 3030 
+5/23/2021, 11:51:00 PM - INFO - Server is running on port: 3030 
+5/23/2021, 11:51:26 PM - INFO - Server is running on port: 3030 
+5/23/2021, 11:51:55 PM - INFO - Server is running on port: 3030 
+5/23/2021, 11:53:20 PM - INFO - Server is running on port: 3030 
+5/23/2021, 11:57:19 PM - INFO - Server is running on port: 3030 
+5/24/2021, 12:00:53 AM - INFO - Server is running on port: 3030 
+5/24/2021, 12:02:56 AM - INFO - Server is running on port: 3030 
+5/24/2021, 12:03:02 AM - INFO - Server is running on port: 3030 
+5/24/2021, 8:49:30 AM - INFO - Server is running on port: 3030 
+5/24/2021, 8:51:47 AM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 8:55:45 AM - INFO - Server is running on port: 3030 
+5/24/2021, 9:49:57 AM - INFO - Server is running on port: 3030 
+5/24/2021, 9:50:45 AM - INFO - Server is running on port: 3030 
+5/24/2021, 9:50:57 AM - INFO - Server is running on port: 3030 
+5/24/2021, 9:53:51 AM - INFO - Server is running on port: 3030 
+5/24/2021, 9:54:35 AM - INFO - Server is running on port: 3030 
+5/24/2021, 9:55:11 AM - INFO - Server is running on port: 3030 
+5/24/2021, 9:56:01 AM - INFO - Server is running on port: 3030 
+5/24/2021, 9:56:55 AM - INFO - Server is running on port: 3030 
+5/24/2021, 9:57:53 AM - INFO - Server is running on port: 3030 
+5/24/2021, 9:57:55 AM - INFO - Server is running on port: 3030 
+5/24/2021, 9:58:03 AM - INFO - Server is running on port: 3030 
+5/24/2021, 9:58:56 AM - INFO - Server is running on port: 3030 
+5/24/2021, 9:59:18 AM - INFO - Server is running on port: 3030 
+5/24/2021, 12:56:45 PM - INFO - Server is running on port: 3030 
+5/24/2021, 1:03:05 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 1:18:53 PM - INFO - Server is running on port: 3030 
+5/24/2021, 1:21:43 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 2:22:43 PM - INFO - Server is running on port: 3030 
+5/24/2021, 3:22:09 PM - INFO - Server is running on port: 3030 
+5/24/2021, 3:23:35 PM - INFO - Server is running on port: 3030 
+5/24/2021, 3:23:44 PM - INFO - Server is running on port: 3030 
+5/24/2021, 3:24:47 PM - INFO - Server is running on port: 3030 
+5/24/2021, 3:27:20 PM - INFO - Server is running on port: 3030 
+5/24/2021, 3:27:26 PM - INFO - Server is running on port: 3030 
+5/24/2021, 3:27:28 PM - INFO - Server is running on port: 3030 
+5/24/2021, 3:28:07 PM - INFO - Server is running on port: 3030 
+5/24/2021, 3:37:09 PM - INFO - Server is running on port: 3030 
+5/24/2021, 3:37:14 PM - ERROR - Cannot get reviews | ReferenceError: logger is not defined 
+5/24/2021, 3:39:44 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:06:31 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:06:40 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:09:12 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:09:14 PM - ERROR - Cannot get reviews | ReferenceError: logger is not defined 
+5/24/2021, 4:10:43 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:11:19 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:13:38 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:13:46 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:14:57 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:15:47 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:15:52 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:15:55 PM - ERROR - Cannot get reviews | ReferenceError: logger is not defined 
+5/24/2021, 4:16:57 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:17:00 PM - ERROR - Cannot get reviews | ReferenceError: logger is not defined 
+5/24/2021, 4:18:55 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:19:02 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:19:29 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:20:33 PM - INFO - Server is running on port: 3030 
+5/24/2021, 4:56:22 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 4:58:42 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:03:19 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:04:56 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:15:11 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:17:20 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:18:11 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:18:39 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:25:24 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:26:16 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:27:24 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:28:40 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:29:24 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:29:43 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:29:54 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:30:31 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:31:23 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:31:31 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:32:12 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:32:22 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:32:59 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:33:04 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:33:22 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:33:30 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:34:20 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:34:28 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:46:17 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:46:35 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:46:49 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:47:19 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:47:27 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:47:36 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:48:32 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:49:12 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 5:53:51 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:53:53 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:54:13 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 5:54:32 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:54:41 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 5:54:55 PM - ERROR - Failed to add review | ReferenceError: logger is not defined 
+5/24/2021, 5:57:02 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:57:23 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:58:03 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:58:10 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 5:58:21 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:58:32 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 5:58:41 PM - ERROR - Failed to add review | ReferenceError: logger is not defined 
+5/24/2021, 5:59:39 PM - INFO - Server is running on port: 3030 
+5/24/2021, 5:59:47 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 6:00:52 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 6:01:47 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 6:02:55 PM - INFO - Server is running on port: 3030 
+5/24/2021, 6:03:27 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 6:04:18 PM - ERROR - Failed to add review | ReferenceError: logger is not defined 
+5/24/2021, 6:05:24 PM - INFO - Server is running on port: 3030 
+5/24/2021, 6:05:28 PM - INFO - Server is running on port: 3030 
+5/24/2021, 6:05:49 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 6:06:03 PM - ERROR - while finding user 60aaa1198b8c1a6194f713f3 | TypeError: Cannot convert undefined or null to object 
+5/24/2021, 6:06:03 PM - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+5/24/2021, 6:07:49 PM - INFO - Server is running on port: 3030 
+5/24/2021, 6:08:23 PM - INFO - Server is running on port: 3030 
+5/24/2021, 6:08:29 PM - INFO - Server is running on port: 3030 
+5/24/2021, 6:08:45 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 6:09:02 PM - ERROR - while finding user 60aaa1198b8c1a6194f713f3 | TypeError: Cannot convert undefined or null to object 
+5/24/2021, 6:09:02 PM - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+5/24/2021, 6:09:38 PM - INFO - Server is running on port: 3030 
+5/24/2021, 6:09:49 PM - INFO - Server is running on port: 3030 
+5/24/2021, 6:09:58 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 6:10:02 PM - ERROR - while finding user 60abbfd40e86222e2cfa7967 | TypeError: Cannot convert undefined or null to object 
+5/24/2021, 6:10:02 PM - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object 
+5/24/2021, 6:13:29 PM - INFO - Server is running on port: 3030 
+5/24/2021, 6:13:48 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 6:14:37 PM - INFO - Server is running on port: 3030 
+5/24/2021, 6:14:37 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 6:14:45 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 6:31:56 PM - INFO - Server is running on port: 3030 
+5/24/2021, 6:31:56 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 6:32:10 PM - INFO - Server is running on port: 3030 
+5/24/2021, 6:32:29 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 6:41:23 PM - INFO - Server is running on port: 3030 
+5/24/2021, 6:41:23 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 6:41:51 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 6:47:21 PM - INFO - Server is running on port: 3030 
+5/24/2021, 7:53:19 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 8:14:42 PM - INFO - Server is running on port: 3030 
+5/24/2021, 8:14:49 PM - ERROR - Failed to delete review | ReferenceError: logger is not defined 
+5/24/2021, 8:14:52 PM - ERROR - Failed to delete review | ReferenceError: logger is not defined 
+5/24/2021, 8:14:53 PM - ERROR - Failed to delete review | ReferenceError: logger is not defined 
+5/24/2021, 8:14:53 PM - ERROR - Failed to delete review | ReferenceError: logger is not defined 
+5/24/2021, 8:14:54 PM - ERROR - Failed to delete review | ReferenceError: logger is not defined 
+5/24/2021, 8:14:55 PM - ERROR - Failed to delete review | ReferenceError: logger is not defined 
+5/24/2021, 8:15:04 PM - ERROR - Failed to delete review | ReferenceError: logger is not defined 
+5/24/2021, 8:15:05 PM - ERROR - Failed to delete review | ReferenceError: logger is not defined 
+5/24/2021, 8:15:05 PM - ERROR - Failed to delete review | ReferenceError: logger is not defined 
+5/24/2021, 8:15:05 PM - ERROR - Failed to delete review | ReferenceError: logger is not defined 
+5/24/2021, 8:15:05 PM - ERROR - Failed to delete review | ReferenceError: logger is not defined 
+5/24/2021, 8:15:06 PM - ERROR - Failed to delete review | ReferenceError: logger is not defined 
+5/24/2021, 8:15:55 PM - INFO - Server is running on port: 3030 
+5/24/2021, 8:15:59 PM - ERROR - cannot remove review 60abc2e9a24e4c6c10e055ec | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:15:59 PM - ERROR - Failed to delete review | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:06 PM - ERROR - cannot remove review 60abc18e01962f2f8c475ef9 | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:06 PM - ERROR - Failed to delete review | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:07 PM - ERROR - cannot remove review 60abc1cabe6af011645317d1 | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:07 PM - ERROR - Failed to delete review | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:13 PM - ERROR - cannot remove review 60abc18e01962f2f8c475ef9 | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:13 PM - ERROR - Failed to delete review | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:13 PM - ERROR - cannot remove review 60abc1cabe6af011645317d1 | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:13 PM - ERROR - Failed to delete review | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:13 PM - ERROR - cannot remove review 60abc2b189c70128a8ea5df9 | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:13 PM - ERROR - Failed to delete review | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:14 PM - ERROR - cannot remove review 60abc2e9a24e4c6c10e055ec | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:14 PM - ERROR - Failed to delete review | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:14 PM - ERROR - cannot remove review 60abc38ca24e4c6c10e055ed | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:14 PM - ERROR - Failed to delete review | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:14 PM - ERROR - cannot remove review 60abc393a24e4c6c10e055ee | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:14 PM - ERROR - Failed to delete review | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:15 PM - ERROR - cannot remove review 60abc3c6a24e4c6c10e055ef | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:15 PM - ERROR - Failed to delete review | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:16 PM - ERROR - cannot remove review 60abc473a24e4c6c10e055f0 | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:16 PM - ERROR - Failed to delete review | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:17 PM - ERROR - cannot remove review 60abc4caa24e4c6c10e055f1 | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:16:17 PM - ERROR - Failed to delete review | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:17:09 PM - INFO - Server is running on port: 3030 
+5/24/2021, 8:17:17 PM - ERROR - cannot remove review 60abc18e01962f2f8c475ef9 | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:17:17 PM - ERROR - Failed to delete review | TypeError: Cannot destructure property 'userId' of 'store' as it is undefined. 
+5/24/2021, 8:17:56 PM - INFO - Server is running on port: 3030 
+5/24/2021, 8:17:58 PM - ERROR - cannot remove review 60abc1cabe6af011645317d1 | ReferenceError: isAdmin is not defined 
+5/24/2021, 8:17:58 PM - ERROR - Failed to delete review | ReferenceError: isAdmin is not defined 
+5/24/2021, 8:17:58 PM - ERROR - cannot remove review 60abc2b189c70128a8ea5df9 | ReferenceError: isAdmin is not defined 
+5/24/2021, 8:17:58 PM - ERROR - Failed to delete review | ReferenceError: isAdmin is not defined 
+5/24/2021, 8:17:58 PM - ERROR - cannot remove review 60abc2e9a24e4c6c10e055ec | ReferenceError: isAdmin is not defined 
+5/24/2021, 8:17:58 PM - ERROR - Failed to delete review | ReferenceError: isAdmin is not defined 
+5/24/2021, 8:23:34 PM - INFO - Server is running on port: 3030 
+5/24/2021, 8:24:21 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined 
+5/24/2021, 8:24:47 PM - INFO - Server is running on port: 3030 
+5/24/2021, 8:24:52 PM - INFO - Server is running on port: 3030 
+5/24/2021, 8:25:08 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 8:56:58 PM - INFO - Server is running on port: 3030 
+5/24/2021, 9:02:18 PM - INFO - Server is running on port: 3030 
+5/24/2021, 9:02:47 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/24/2021, 9:11:26 PM - INFO - Server is running on port: 3030 
+5/24/2021, 9:12:53 PM - INFO - Server is running on port: 3030 
+5/24/2021, 9:13:59 PM - INFO - Server is running on port: 3030 
+5/24/2021, 10:42:11 PM - INFO - Server is running on port: 3030 
+5/24/2021, 11:09:41 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/25/2021, 12:10:04 AM - INFO - Server is running on port: 3030 
+5/25/2021, 12:33:31 AM - INFO - Server is running on port: 3030 
+5/25/2021, 1:11:25 AM - INFO - Server is running on port: 3030 
+5/25/2021, 1:34:35 AM - INFO - Server is running on port: 3030 
+5/25/2021, 1:34:50 AM - INFO - Server is running on port: 3030 
+5/25/2021, 1:40:19 AM - INFO - Server is running on port: 3030 
+5/25/2021, 1:48:45 AM - INFO - Server is running on port: 3030 
+5/25/2021, 1:49:01 AM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/25/2021, 1:53:01 AM - INFO - Server is running on port: 3030 
+5/25/2021, 1:54:33 AM - INFO - Server is running on port: 3030 
+5/25/2021, 1:10:13 PM - INFO - Server is running on port: 3030 
+5/25/2021, 1:10:39 PM - INFO - Server is running on port: 3030 
+5/25/2021, 3:48:24 PM - INFO - Server is running on port: 3030 
+5/25/2021, 3:49:10 PM - INFO - Server is running on port: 3030 
+5/25/2021, 5:29:59 PM - DEBUG - auth.service - login with email: Nadav@gmail.com 
+5/25/2021, 6:30:16 PM - INFO - Server is running on port: 3030 
+5/25/2021, 6:40:50 PM - INFO - Server is running on port: 3030 
+5/25/2021, 6:42:54 PM - INFO - Server is running on port: 3030 
+5/25/2021, 6:44:21 PM - INFO - Server is running on port: 3030 
+5/25/2021, 6:44:30 PM - INFO - Server is running on port: 3030 
+5/25/2021, 6:48:20 PM - INFO - Server is running on port: 3030 
+5/25/2021, 6:48:58 PM - INFO - Server is running on port: 3030 
+5/25/2021, 7:01:28 PM - INFO - Server is running on port: 3030 
+5/25/2021, 7:01:31 PM - INFO - Server is running on port: 3030 
+5/25/2021, 7:08:16 PM - INFO - Server is running on port: 3030 
+5/25/2021, 7:38:37 PM - DEBUG - auth.service - login with email: nadav@gmail.com (sid: wYLLUfPW4T4SB_LPxL_9l86kbhi5kKre)
+5/25/2021, 7:38:38 PM - ERROR - Failed to Login Invalid email or password (sid: wYLLUfPW4T4SB_LPxL_9l86kbhi5kKre)
+5/25/2021, 7:48:12 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: rlE2BAbraeRG0wWCXrFx6_kPofZf9hiu)
+5/25/2021, 7:48:38 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: rlE2BAbraeRG0wWCXrFx6_kPofZf9hiu)
+5/25/2021, 7:53:13 PM - INFO - Server is running on port: 3030 
+5/25/2021, 7:54:04 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: KN-vi72EJunQ5tTffKqBdODn0IEvCn6k)
+5/25/2021, 7:55:14 PM - INFO - Server is running on port: 3030 
+5/25/2021, 7:55:24 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: z5I7OE8B90w5qyfEZWPas8WZ1IfOSagI)
+5/25/2021, 7:56:17 PM - INFO - Server is running on port: 3030 
+5/25/2021, 7:56:23 PM - INFO - Server is running on port: 3030 
+5/25/2021, 7:56:34 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: Wiwe4aHzYRmL3p4PxZ9AvFZy9qefFzJm)
+5/25/2021, 7:59:41 PM - INFO - Server is running on port: 3030 
+5/25/2021, 8:01:08 PM - INFO - Server is running on port: 3030 
+5/25/2021, 8:02:16 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: CFl53sfNM1j1rv8IITd9It14gkmXhE0h)
+5/25/2021, 8:04:47 PM - INFO - Server is running on port: 3030 
+5/25/2021, 8:04:52 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: uBElZRMDkHtY_FDMu8Si7JWhDCQ3jjQM)
+5/25/2021, 8:08:41 PM - INFO - Server is running on port: 3030 
+5/25/2021, 8:08:58 PM - DEBUG - auth.service - login with email: Nadav@gmail.com (sid: Djb0RrJ1-0cRcYfSngWo9l2owzhW-YyR)
+5/25/2021, 8:09:48 PM - INFO - Server is running on port: 3030 
+5/25/2021, 8:09:57 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: uADJXP-Zal_JV4ue4M2-B087atHXxkfT)
+5/25/2021, 8:10:11 PM - DEBUG - auth.service - login with email: Nadav@gmail.com (sid: hzmcH9h8oZNm9bGLrF5s79CERSdfSdQR)
+5/25/2021, 8:12:56 PM - INFO - Server is running on port: 3030 
+5/25/2021, 8:13:19 PM - INFO - Server is running on port: 3030 
+5/25/2021, 8:13:26 PM - ERROR - Failed to add review | TypeError: Cannot read property '_id' of undefined (sid: G0rTQmFWpOiCSmxMIThqhKjMJkTqOaY_)
+5/25/2021, 8:13:40 PM - DEBUG - auth.service - login with email: Nadav@gmail.com (sid: JE-Q8SBWDda9ZH1nPb7N9PoVAsmJ2T1b)
+5/25/2021, 10:26:33 PM - INFO - Server is running on port: 3030 
+5/25/2021, 10:35:06 PM - INFO - Server is running on port: 3030 
+5/26/2021, 9:33:31 AM - INFO - Server is running on port: 3030 
